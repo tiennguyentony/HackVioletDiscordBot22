@@ -2,6 +2,7 @@
 import os
 import discord
 
+
 from discord.ext import commands
 
 # initialize bot with environment token, intents and prefix
@@ -15,7 +16,6 @@ PREFIX = os.getenv('BOT_PREFIX')
 bot = commands.Bot(command_prefix=PREFIX)
 
 # load and unload bot cogs
-# command check to make sure its me
 @bot.command()
 async def load(ctx, extension):
     bot.load_extension(f'cogs.{extension}')
@@ -28,6 +28,7 @@ async def unload(ctx, extension):
 # loop through cogs and load them at start
 for file in os.listdir("./cogs"):
     if file.endswith(".py"):
+        print(file)
         bot.load_extension(f"cogs.{file[:-3]}")
 
 # run bot

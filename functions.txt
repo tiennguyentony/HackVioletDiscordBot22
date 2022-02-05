@@ -1,0 +1,39 @@
+python:
+https://www.learnpython.org/
+Python class: https://developers.google.com/edu/python
+Basic Usage of Python: https://docs.python-guide.org/
+Project Ideas:
+ - Discord Bot 
+ - Microblog
+ - Quiz Application
+
+C++:
+
+
+
+Typescript:
+
+
+
+
+java:
+
+
+C:
+
+
+
+SQL:
+
+JavaScript:
+
+
+Hackathon:
+
+
+
+Job Opportunity
+
+
+
+career Fair:"
