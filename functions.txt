@@ -8,10 +8,57 @@ Project Ideas:
  - Quiz Application
 
 C++:
+Here is some resources that I found: 
+
+        Learning Resrouces you might want to start: 
+        https://www.learncpp.com/
+
+        C++ class: 
+        https://developers.google.com/edu/c++
+
+        What C++ used for: 
+        https://www.softwaretestinghelp.com/cpp-applications/
+
+        Project Ideas:
+            - Login and Registeration System 
+            - Sudoku Game
+            - Car Rental System """
 
 
 
 Typescript:
+Here is some resources that I found: 
+
+        Learning Resrouces you might want to start: 
+        https://www.typescriptlang.org/docs/
+        Follow this for Typescript weekly information: 
+        https://www.typescript-weekly.com/
+
+        What Typescript used for: 
+        https://javascript.plainenglish.io/7-trending-typescript-projects-on-github-675d3fc8ecae
+
+        Project Ideas:
+            - Restaunrant Menu
+            - Navigation Bar on scroll
+            - Countdown clock"""
+
+
+Ruby:
+Here is some resources that I found: 
+
+        Learning Resrouces you might want to start: 
+        https://guides.rubyonrails.org/getting_started.html
+        
+        Valuable book to learn Ruby:
+        https://www.railstutorial.org/
+
+        What makes Ruby different from other: 
+        https://www.codecademy.com/resources/blog/what-is-ruby-used-for/
+
+        Project Ideas:
+            - Make a website with Hanami
+            - Navigation Bar on scroll
+            - Countdown clock"""
 
 
 
