@@ -1,5 +1,6 @@
 from discord.ext import commands
 import openpyxl
+import random
 
 wb = openpyxl.load_workbook("Hackathon.xlsx")
 sh = wb['Hackathons']
@@ -13,7 +14,11 @@ class main_funcs(commands.Cog):
 
     def __init__(self,bot):
         self.bot = bot
-
+    @commands.command()
+    async def encourage(self,ctx):
+        encourage_messages = ["You are more powerful than you know!","Believe you can and you're halfway there!", "There's something in you that the world needs!","You are so much stronger than you think!", "Every day may not be good, but there's something good in every day!", "The best time for new beginnings is NOW!","Nothing is impossible!", "When you feel like quitting, think about why you started","Don't Give Up!", "Everything happens for a reason, a season or for a lifetime"]
+        response = encourage_messages[random.randint(0, len(encourage_messages)-1)]
+        await ctx.send(response)
 #displays a list of upcoming hackathons
     @commands.command()
     async def hackathons(self, ctx, para = None):
