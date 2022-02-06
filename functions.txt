@@ -57,11 +57,45 @@ Here is some resources that I found:
 
         Project Ideas:
             - Make a website with Hanami
-            - Navigation Bar on scroll
-            - Countdown clock"""
+            - Develop a Chat Widget using Chatwoot 
+            - Build a 2D game with Goby """
 
 
+Ada: 
+Here is some resources that I found: 
 
+        Learning Resrouces you might want to start: 
+         https://www.adaic.org/learn/
+        
+        Valuable pdfs to learn Ada:
+        https://learn.adacore.com/
+
+        What makes Ada different from other: 
+        https://people.cs.kuleuven.be/~dirk.craeynest/ada-belgium/ada.html
+
+        Project Ideas:
+            - Payroll systems
+            - Commercial banking systems
+            - Stock quotation transaction systems
+            - Language translation system and RDMSs """
+
+Cobol:
+Here is some resources that I found: 
+
+        Learning Resrouces you might want to start: 
+        https://www.guru99.com/learn-cobol-programming-tutorial.html
+        
+        Valuable pdfs to learn Ada:
+        https://learn.adacore.com/
+
+        What makes Ada different from other: 
+        https://people.cs.kuleuven.be/~dirk.craeynest/ada-belgium/ada.html
+
+        Project Ideas:
+            - Payroll systems
+            - Commercial banking systems
+            - Stock quotation transaction systems
+            - Language translation system and RDMSs """
 
 java:
 
